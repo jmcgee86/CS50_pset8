@@ -5,7 +5,7 @@ from flask import Flask, jsonify, render_template, request
 from cs50 import SQL
 from helpers import lookup
 
-# Configure application
+# Configure application test!
 app = Flask(__name__)
 
 # Configure CS50 Library to use SQLite database
